@@ -1,15 +1,28 @@
 p {
-  font-size: 50px;
+  font-size: 35px;
+}
+
+p:hover {
+  color: hsl(180, 100%, 75%);
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 60px;
+  color: hsl(210, 100%, 50%);
+  background-color: hsl(0, 0%, 20%);
+  padding: 10px;
 }
 
 h2 {
-  font-size: 70px;
+  font-size: 50px;
+  color: hsl(270, 100%, 50%);
+  background-color: hsl(0, 0%, 20%);
+  padding: 10px;
 }
 
 h3 {
-  font-size: 60px;
+  font-size: 40px;
+  color: hsl(60, 100%, 50%);
+  background-color: hsl(0, 0%, 20%);
+  padding: 10px;
 }
